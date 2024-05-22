@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-audioreactive"
+description = "porting audioreactivity pipeline from vktrs to comfyui."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/dmarx/ComfyUI-AudioReactive"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-AudioReactive"
+Icon = ""
